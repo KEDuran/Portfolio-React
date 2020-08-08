@@ -1,5 +1,5 @@
-import React, { useState } from "react";
-import { Container, Row, Col, Modal, Button } from "react-bootstrap";
+import React, { useState } from "./node_modules/react";
+import { Container, Row, Col, Modal, Button } from "./node_modules/react-bootstrap";
 import "./style.css";
 import BtnComponent from "../../components/Button";
 import InputTextForm from "../../components/InputTextForm";
