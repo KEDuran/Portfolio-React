@@ -20,7 +20,7 @@ function NavbarComp() {
 					<Nav.Link className="text-light" href="#link">
 						Fun Facts
 					</Nav.Link>
-					<Nav.Link className="text-light" href="#link">
+					<Nav.Link className="text-light" href="/contact">
 						Contact
 					</Nav.Link>
 				</Nav>
