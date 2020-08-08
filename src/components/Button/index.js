@@ -6,6 +6,7 @@ function BtnComponent(props) {
 	return (
 		<Button
 			className="green"
+			variant="secondary"
 			href={props.href}
 			onClick={props.onClick}
 			size="md"
