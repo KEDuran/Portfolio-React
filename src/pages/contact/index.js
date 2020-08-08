@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import "./style.css";
 import BtnComponent from "../../components/Button";
@@ -6,6 +6,10 @@ import InputTextForm from "../../components/InputTextForm";
 import InputTextArea from "../../components/InputTextArea";
 
 function ContactPage() {
+	const [show, setShow] = useState(false);
+
+	const handleClose = () => setShow(false);
+	const handleShow = () => setShow(true);
 	return (
 		<Container>
 			<Row>
