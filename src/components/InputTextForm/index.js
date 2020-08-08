@@ -2,7 +2,7 @@ import React from "react";
 import { InputGroup, FormControl } from "react-bootstrap";
 import "./style.css";
 
-function InputText(props) {
+function InputTextForm(props) {
 	return (
 		<InputGroup className="mb-3">
 			<InputGroup.Prepend>
@@ -18,4 +18,4 @@ function InputText(props) {
 	);
 }
 
-export default InputText;
+export default InputTextForm;
