@@ -6,7 +6,7 @@ function InputTextArea(props) {
 	return (
 		<InputGroup>
 			<InputGroup.Prepend>
-				<InputGroup.Text className="light-green">{props.name}</InputGroup.Text>
+				<InputGroup.Text className="green text-light">{props.name}</InputGroup.Text>
 			</InputGroup.Prepend>
 			<FormControl as="textarea" aria-label="With textarea" />
 		</InputGroup>

@@ -1,14 +1,14 @@
 import React from "react";
 import { Button } from "react-bootstrap";
+import "./style.css";
 
 function BtnComponent(props) {
 	return (
 		<Button
-			className="button-color text-light"
+			className="green"
 			href={props.href}
 			onClick={props.onClick}
 			size="md"
-			disabled
 		>
 			{props.name}
 		</Button>

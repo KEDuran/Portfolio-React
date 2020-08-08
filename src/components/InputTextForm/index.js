@@ -6,7 +6,7 @@ function InputTextForm(props) {
 	return (
 		<InputGroup className="mb-3">
 			<InputGroup.Prepend>
-				<InputGroup.Text id="inputGroup-sizing-default" className="light-green">
+				<InputGroup.Text id="inputGroup-sizing-default" className=" text-light green">
 					{props.name}
 				</InputGroup.Text>
 			</InputGroup.Prepend>
