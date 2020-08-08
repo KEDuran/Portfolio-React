@@ -1,11 +1,12 @@
 import React from "react";
-import { InputGroup, InputText, FormControl } from "react-bootstrap";
+import { InputGroup, FormControl } from "react-bootstrap";
+import "./style.css";
 
 function InputText(props) {
 	return (
 		<InputGroup className="mb-3">
 			<InputGroup.Prepend>
-				<InputGroup.Text id="inputGroup-sizing-default">
+				<InputGroup.Text id="inputGroup-sizing-default" className="light-green">
 					{props.name}
 				</InputGroup.Text>
 			</InputGroup.Prepend>
