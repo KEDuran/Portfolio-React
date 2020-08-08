@@ -4,10 +4,10 @@ import Footer from "./components/Footer";
 
 function App() {
 	return (
-		<Router>
+		<div>
 			<NavbarComp />
 			<Footer />
-		</Router>
+		</div>
 	);
 }
 
