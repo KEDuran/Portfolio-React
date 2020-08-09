@@ -5,7 +5,7 @@ import "./style.css";
 function NavbarComp() {
 	return (
 		<Navbar className="purple navbar-dark" expand="lg">
-			<Navbar.Brand href="#home">
+			<Navbar.Brand href="/">
 				<h4 className="text-light">Krystal E. Duran</h4>
 			</Navbar.Brand>
 			<Navbar.Toggle aria-controls="basic-navbar-nav" />
