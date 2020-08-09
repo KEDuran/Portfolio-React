@@ -1,6 +1,6 @@
 import React from "react";
-import "./style";
 import { Card } from "react-bootstrap";
+import "./style";
 
 function ProjectCard(props) {
 	return (
