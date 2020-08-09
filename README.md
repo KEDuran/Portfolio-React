@@ -1,6 +1,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/KEDuran?logo=GitHub&style=plastic)
 ![GitHub language count](https://img.shields.io/github/languages/count/KEDuran/Portfolio-React?color=orange&logo=GitHub&style=plastic)
 ![npm](https://img.shields.io/npm/v/express?color=green&label=express&logo=npm&style=plastic)
+![react](https://img.shields.io/badge/library-react.js-yellow/?style=plastic&logo=react)
 
 # Portfolio for Krystal E. Duran
 
