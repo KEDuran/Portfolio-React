@@ -11,7 +11,7 @@ function NavbarComp() {
 			<Navbar.Toggle aria-controls="basic-navbar-nav" />
 			<Navbar.Collapse id="basic-navbar-nav" className="justify-content-end">
 				<Nav className="text-light">
-					<Nav.Link className="text-light" href="#home">
+					<Nav.Link className="text-light" href="/">
 						About Me
 					</Nav.Link>
 					<Nav.Link className="text-light" href="/projects">
