@@ -12,7 +12,6 @@ function FunFactsPage() {
 				</Col>
 				<Col sm={1} md={1} lg={1}></Col>
 			</Row>
-
 			<Row>
 				<Col sm={1} md={1} lg={1} className="mb-4"></Col>
 				<Col sm={5} md={5} lg={5} className="mb-4">
