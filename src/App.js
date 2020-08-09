@@ -2,6 +2,7 @@ import React from "react";
 import NavbarComp from "./components/Navbar";
 import ContactPage from "./pages/Contact";
 import FunFactsPage from "./pages/FunFacts";
+import ProjectPage from "./pages/Projects";
 import Footer from "./components/Footer";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import ProjectPage from "./pages/Projects";
