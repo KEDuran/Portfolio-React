@@ -17,7 +17,7 @@ function NavbarComp() {
 					<Nav.Link className="text-light" href="#link">
 						Projects
 					</Nav.Link>
-					<Nav.Link className="text-light" href="#link">
+					<Nav.Link className="text-light" href="/funfacts">
 						Fun Facts
 					</Nav.Link>
 					<Nav.Link className="text-light" href="/contact">
