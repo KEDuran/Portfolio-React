@@ -6,7 +6,6 @@ import ProjectPage from "./pages/Projects";
 import BioPage from "./pages/Bio";
 import Footer from "./components/Footer";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
-import BioPage from "./pages/Bio";
 
 function App() {
 	return (
