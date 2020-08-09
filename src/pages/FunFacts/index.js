@@ -62,7 +62,7 @@ function FunFactsPage() {
 					<FunFactsCard
 						src={require("./images/TASB.jpg")}
 						title="Halloween at TASB"
-						message="I have worked for the Texas Association of School Boards (TASB) since 2018. I work with a great team of fun and smart people!"
+                        message="I have worked for the Texas Association of School Boards (TASB) since 2018. I work with a great team of fun and smart people!"
 					/>
 				</Col>
 				<Col sm={1} md={1} lg={1}></Col>
