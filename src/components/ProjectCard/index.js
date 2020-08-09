@@ -5,7 +5,7 @@ import "./style";
 function ProjectCard(props) {
 	return (
 		<Card>
-			<Card.Header>{props.header}</Card.Header>
+			<Card.Header className={props.headerStyle}>{props.header}</Card.Header>
 			<Card.Img variant="top" src={props.src} />
 			<Card.Body>
 				<Card.Title>{props.title}</Card.Title>
