@@ -4,6 +4,7 @@ import ContactPage from "./pages/Contact";
 import FunFactsPage from "./pages/FunFacts";
 import Footer from "./components/Footer";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import ProjectPage from "./pages/Projects";
 
 function App() {
 	return (
@@ -12,6 +13,7 @@ function App() {
 			<Switch>
 				<Route path="/contact" component={ContactPage} />
 				<Route path="/funfacts" component={FunFactsPage} />
+				<Route path="/projects" component={ProjectPage} />
 			</Switch>
 			<Footer />
 		</Router>
