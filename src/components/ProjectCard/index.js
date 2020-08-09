@@ -6,7 +6,7 @@ function ProjectCard(props) {
 	return (
 		<Card>
 			<Card.Header className="green text-light bold">{props.header}</Card.Header>
-			<Card.Img variant="top" src={props.src} />
+			<Card.Img className ="project-card-img-top" variant="top" src={props.src} />
 			<Card.Body>
 				<Card.Title>{props.title}</Card.Title>
 				<Card.Text>{props.text}</Card.Text>

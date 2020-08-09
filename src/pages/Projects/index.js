@@ -27,12 +27,12 @@ function ProjectPage() {
 						href2="https://wedding-planner-platform.herokuapp.com/"
 					/>
 				</Col>
-				<Col sm={5} md={5} lg={5}>
+				<Col sm={5} md={5} lg={5} className="mb-4">
 					<ProjectCard
 						header="Project 2 - Movie Selection App"
 						src={require("./images/movieSelection.png")}
 						title="Description"
-						text="Web application developed to help users select movie streaming content in Amazon, Hulu, and Netflix based on user criteria selections."
+						text="Web application that allows users to select movie streaming content based on user criteria selections."
 						btn1="GitHub Repo"
 						href1="https://github.com/Group4project1/project1"
 						btn2="Deployed Project"
@@ -69,11 +69,11 @@ function ProjectPage() {
 				</Col>
 				<Col sm={1} md={1} lg={1}></Col>
 			</Row>
-			<Row>
+			<Row className="mb-5">
 				<Col sm={1} md={1} lg={1} className="mb-4"></Col>
 				<Col sm={5} md={5} lg={5} className="mb-4">
 					<ProjectCard
-						header="Project 5 - Team Profile Generator CLI Application"
+						header="Project 5 - Webpage Generator CLI Application"
 						src={require("./images/teamHTMLoutput.png")}
 						title="Description"
 						text="A commandline interface (CLI) application that prompts users with questions to get info about their team members in order to generate a team webpage."
