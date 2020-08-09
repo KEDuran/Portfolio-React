@@ -1,68 +1,59 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+# Portfolio for Krystal E. Duran
 
-### `npm start`
+This portfolio website was devedloped using React.js and updated on 8/9/2020. Please reference the content below for a detailed summary of the updates I included for this assignment. At this time, my portfolio website now has the following pages to showcase my work:
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- About webpage - Provides a short personal bio
+- Projects webpage - Showcases four of my high scoring projects
+- Fun Facts webpage - Includes some fun facts about me
+- Contact webpage - Includes a form that a user can fill out to contact me
+  - At this time, the form submission functionality is still in development, so I included a modal to serve as an error message to warn the reader that this page is still in development after they click the submit button on this page.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Links to Portfolio Website
 
-### `npm test`
+Here are the links to the GitHub repo and deployed portfolio website for your reference.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Link to GitHub Repo - [https://github.com/KEDuran/Portfolio](https://github.com/KEDuran/Portfolio)
+- Link to Deployed Portfolio Website - [https://keduran.github.io/Portfolio/](https://keduran.github.io/Portfolio/)
 
-### `npm run build`
+## Updates to Portfolio Website
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+As specified in the instructional requirements, I updated my reponsive portfolio website to include the following:
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+- Links to my LinkedIn and GitHub profiles (both referenced in the Bio text on the About Page and footers located on each page)
+- Links to my resume, email, and phone number are also included in the About webpage
+- A dedicated Projects webpage to showcase four high scored assignments (project 1 and three other projects)
+- Additional styling changes to ensure a uniquely styled portfolio
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Similar to my initial portfolio website, this updated version already included my name, mobile-first design, complementary color palette, and overall polished style.
 
-### `npm run eject`
+## Updates to GitHub Repo
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+I updated my GitHub profile to include the following items:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Profile picture (included prior to this assignment)
+- Bio (included prior to this assignment)
+- Location (included prior to this assignment)
+- Email (now listed)
+- Link to your portfolio (now listed)
+- Pinned four projects (specifically project 1 and three other high scored projects)
+- Followed Boot Camp colleagues that I have directly worked with
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+I have included a link to my GitHub profile to confirm assignment requirements were met:
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- Link to my GitHub profile - [https://github.com/KEDuran](https://github.com/KEDuran)
 
-## Learn More
+## Updates to Resume
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Here is a link to my updated resume that now showcases my progress made throughout the UT Coding Boot Camp.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Link to my resume - [Resume for Krystal E. Duran](https://drive.google.com/file/d/19KIgS42PcWX6oEKzVI1cSNP5Px2pAE8P/view?usp=sharing)
 
-### Code Splitting
+## Updates to LinkedIn
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+I have updated my LinkedIn Profile to include a strong bio / branding statement that has been already reviewed by Career Services, a professional photo, and links to your GitHub profile and personal portfolio website.
 
-### Analyzing the Bundle Size
+I have included a link to my LinkedIn profile to confirm assignment requirements were met:
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+- Link to my LinkedIn profile - [https://www.linkedin.com/in/krystal-e-duran-b64552123/](https://www.linkedin.com/in/krystal-e-duran-b64552123/)
