@@ -18,7 +18,7 @@ This portfolio website was developed using React.js and updated on 8/9/2020. Ple
 Here are the links to the GitHub repo and deployed portfolio website for your reference.
 
 - Link to GitHub Repo - [https://github.com/KEDuran/Portfolio-React](https://github.com/KEDuran/Portfolio-React)
-- Link to Deployed Portfolio Website - [https://keduran.github.io/Portfolio/](https://keduran.github.io/Portfolio/)
+- Link to Deployed Portfolio Website - [https://portfolio-react-ked.herokuapp.com/](https://portfolio-react-ked.herokuapp.com/)
 
 ## Updates to Portfolio Website
 
