@@ -22,11 +22,11 @@ function ProjectPage() {
 		<Container>
 			{/* page name row */}
 			<Row className="mt-5">
-				<Col sm={1} md={1} lg={1}></Col>
-				<Col sm={10} md={10} lg={10}>
+				<Col sm={2} md={2} lg={2}></Col>
+				<Col sm={8} md={8} lg={8}>
 					<h3 className="mb-3">Projects</h3>
 				</Col>
-				<Col sm={1} md={1} lg={1}></Col>
+				<Col sm={2} md={2} lg={2}></Col>
 			</Row>
 			{/* creating the project cards */}
 			<Row>

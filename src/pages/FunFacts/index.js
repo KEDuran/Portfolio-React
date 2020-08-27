@@ -23,7 +23,7 @@ function FunFactsPage() {
 				</Col>
 				<Col sm={2} md={2} lg={2}></Col>
 			</Row>
-			<Row className="mt-5">
+			<Row>
 				<Col sm={2} md={2} lg={2}></Col>
 				<Col sm={8} md={8} lg={8}>
 					{funFactsList}
