@@ -4,22 +4,24 @@ import "./style.css";
 
 function ProjectCard(props) {
 	return (
-		<Card>
-			<Card.Header className="green text-light bold">
-				{props.header}
-			</Card.Header>
+		<Card className="mb-4">
+			<Card.Header className="green text-light bold">{props.title}</Card.Header>
 			<Card.Img
 				className="project-card-img-top bodyBackground"
 				variant="top"
-				src={props.src}
+				src={props.image}
 			/>
 			<Card.Body>
-				<Card.Title>{props.title}</Card.Title>
-				<Card.Text>{props.text}</Card.Text>
-				<Button variant="secondary" href={props.href1} className="green mr-2">
+				<Card.Title>Description</Card.Title>
+				<Card.Text>{props.description}</Card.Text>
+				<Button
+					variant="secondary"
+					href={props.repository}
+					className="green mr-2"
+				>
 					{props.btn1}
 				</Button>
-				<Button variant="secondary" href={props.href2} className="green">
+				<Button variant="secondary" href={props.url} className="green">
 					{props.btn2}
 				</Button>
 			</Card.Body>
