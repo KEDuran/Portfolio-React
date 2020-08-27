@@ -51,7 +51,7 @@ As specified in the instructional requirements, I updated my reponsive portfolio
 - A dedicated Projects webpage to showcase _two major projects_ and _four high scored assignments_
 - Additional styling changes to ensure a uniquely styled portfolio
 
-Similar to my initial portfolio website, this updated version already included my name, mobile-first design, complementary color palette, and overall polished style.
+Similar to previous version of my portfolio website, this refactored version also contains included my name, mobile-first design, complementary color palette, and overall polished style.
 
 ---
 
