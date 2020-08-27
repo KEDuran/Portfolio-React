@@ -5,8 +5,14 @@ import "./style.css";
 function ProjectCard(props) {
 	return (
 		<Card>
-			<Card.Header className="green text-light bold">{props.header}</Card.Header>
-			<Card.Img className ="project-card-img-top" variant="top" src={props.src} />
+			<Card.Header className="green text-light bold">
+				{props.header}
+			</Card.Header>
+			<Card.Img
+				className="project-card-img-top bodyBackground"
+				variant="top"
+				src={props.src}
+			/>
 			<Card.Body>
 				<Card.Title>{props.title}</Card.Title>
 				<Card.Text>{props.text}</Card.Text>
