@@ -4,6 +4,7 @@ import movieSelection from "../pages/Projects/images/movieSelection.png";
 import teamHTMLoutput from "../pages/Projects/images/teamHTMLoutput.png";
 import weatherDashboard from "../pages/Projects/images/weatherDashboard.png";
 import weddingPlanner from "../pages/Projects/images/WeddingPlanner.png";
+import GoogleBookSearch from "../pages/Projects/images/GoogleBookSearch.png";
 
 export default [
 	{
@@ -61,5 +62,14 @@ export default [
 		image: employeeTracker,
 		description:
 			"A commandline interface (CLI) application that prompts users with questions to get info about their team members in order to generate a team webpage.",
+	},
+	{
+		id: 7,
+		title: "Project 7 - React-Based Google Books Search App",
+		url: "https://google-books-react-search-ked.herokuapp.com/",
+		repository: "https://github.com/KEDuran/Google-Books-React-Search",
+		image: GoogleBookSearch,
+		description:
+			"A MERN web application that will allow users to search and save Google Books buy using the Google Books API.",
 	},
 ];
