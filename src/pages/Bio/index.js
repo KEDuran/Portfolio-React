@@ -27,7 +27,7 @@ function BioPage() {
 						<Card.Body>
 							<Card.Title>Bio</Card.Title>
 							<Card.Text>
-								My name is Krystal E. Duran, and I venturing into the dynamic
+								My name is Krystal E. Duran, and I exploring the dynamic
 								web development industry. This is my personal portfolio site
 								that includes my bio, project history, fun facts abouts me, and
 								my contact information. Here is my brief bio!
@@ -43,17 +43,13 @@ function BioPage() {
 							<Card.Text>
 								I live in Pflugerville, Texas with my wonderful husband, James,
 								and our spunky terrier, Caleb. I am currently employed as a
-								Project Manager / Business Operations Analyst for the Texas
-								Association of School Boards, which is a non-profit organization
-								that advocates for public schools.
+								Technical Business Analyst for WEX, Inc.
 							</Card.Text>
 							<Card.Text>
-								I have a combined 10 years of project management and data
-								analytics experience in the public and nonprofit sector. I
-								attribute my professional success to my ability to use business
-								intelligence tools to help turn big data into soomething meanful
-								that meets stakeholder needs. For example, PowerBI, SmartSheet,
-								SQL, RStudio, and SAP are some of the trusty tools.
+								I have a combined 12 years of project management and data
+								analytics experience in the public, nonprofit, and private sector. I
+								attribute my professional success to my constant desire to continue 
+								learning and leveraging both my business and technical savy skillsets.
 							</Card.Text>
 							<Card.Text>
 								As technical skills become a non-negotiable for today’s
