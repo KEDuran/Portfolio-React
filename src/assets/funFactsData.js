@@ -48,7 +48,7 @@ export default [
 	},
 	{
 		id: 6,
-		title: "Favority Hobby",
+		title: "Favorite Hobby",
 		header: "Fun Fact # 6",
 		image: Puzzle,
 		message:
