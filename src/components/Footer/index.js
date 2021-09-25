@@ -11,7 +11,7 @@ function Footer() {
 		>
 			<Nav.Item>
 				<a href="#" className="text-light m-3">
-					&copy; 2020 Krystal E. Duran
+					&copy; 2021 Krystal E. Duran
 				</a>
 			</Nav.Item>
 			<Nav.Item>

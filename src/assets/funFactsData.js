@@ -3,7 +3,7 @@ import UTPA from "../pages/FunFacts/images/UTPA.gif";
 import Pflugerville from "../pages/FunFacts/images/Pflugerville.png";
 import Disney from "../pages/FunFacts/images/Disney.jpg";
 import Caleb from "../pages/FunFacts/images/Caleb.jpg";
-import TASB from "../pages/FunFacts/images/TASB.jpg";
+import Puzzle from "../pages/FunFacts/images/jigsawPuzzle.jpg";
 
 export default [
 	{
@@ -48,10 +48,10 @@ export default [
 	},
 	{
 		id: 6,
-		title: "Halloween at TASB",
+		title: "Favorite Hobby",
 		header: "Fun Fact # 6",
-		image: TASB,
+		image: Puzzle,
 		message:
-			"I have worked for the Texas Association of School Boards (TASB) since 2018. I work with a great team of fun and smart people!",
+			"My favorite pass time is completing jigsaw puzzles and then framing them as art pieces throughout my home. I have 14 framed jisgsaw puzzles!",
 	},
 ];

@@ -23,11 +23,11 @@ function BioPage() {
 				<Col sm={1} md={2} lg={2}></Col>
 				<Col sm={10} md={8} lg={8}>
 					<Card>
-						<Card.Img variant="top" src={require("./images/Krystal.png")} />
+						<Card.Img variant="top" src={require("./images/Krystal.jpg")} />
 						<Card.Body>
 							<Card.Title>Bio</Card.Title>
 							<Card.Text>
-								My name is Krystal E. Duran, and I venturing into the dynamic
+								My name is Krystal E. Duran, and I exploring the dynamic
 								web development industry. This is my personal portfolio site
 								that includes my bio, project history, fun facts abouts me, and
 								my contact information. Here is my brief bio!
@@ -43,24 +43,13 @@ function BioPage() {
 							<Card.Text>
 								I live in Pflugerville, Texas with my wonderful husband, James,
 								and our spunky terrier, Caleb. I am currently employed as a
-								Project Manager / Business Operations Analyst for the Texas
-								Association of School Boards, which is a non-profit organization
-								that advocates for public schools.
+								Technical Business Analyst for WEX, Inc.
 							</Card.Text>
 							<Card.Text>
-								I have a combined 10 years of project management and data
-								analytics experience in the public and nonprofit sector. I
-								attribute my professional success to my ability to use business
-								intelligence tools to help turn big data into soomething meanful
-								that meets stakeholder needs. For example, PowerBI, SmartSheet,
-								SQL, RStudio, and SAP are some of the trusty tools.
-							</Card.Text>
-							<Card.Text>
-								As technical skills become a non-negotiable for today’s
-								workforce, I decided it’s time for me to learn how to code! I am
-								currently enrolled in a UT Full Stack Development Bootcamp and
-								can’t wait to leverage my project management experience and web
-								development skill set.
+								I have a combined 12 years of project management and data
+								analytics experience in the public, nonprofit, and private sector. I
+								attribute my professional success to my constant desire to continue 
+								learning and leveraging both my business and technical savy skillsets.
 							</Card.Text>
 							<Card.Title>Find Me On</Card.Title>
 							<Card.Text>
@@ -70,7 +59,7 @@ function BioPage() {
 							</Card.Text>
 							<ListGroup>
 								<ListGroup.Item>
-									<a href="https://drive.google.com/file/d/19KIgS42PcWX6oEKzVI1cSNP5Px2pAE8P/view?usp=sharing">
+									<a href="https://drive.google.com/file/d/1sKHDu3NvncD70KxuMUXas9FZsgTReCkW/view?usp=sharing">
 										<FaBriefcase className="mr-1" /> Resume for Krystal E. Duran
 									</a>
 								</ListGroup.Item>
