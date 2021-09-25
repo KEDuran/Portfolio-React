@@ -52,6 +52,6 @@ export default [
 		header: "Fun Fact # 6",
 		image: Puzzle,
 		message:
-			"My favorite passtime is completing jigsaw puzzles and then framing them as art pieces throughout my home. I have 14 framed jisgsaw puzzles!",
+			"My favorite pass time is completing jigsaw puzzles and then framing them as art pieces throughout my home. I have 14 framed jisgsaw puzzles!",
 	},
 ];
