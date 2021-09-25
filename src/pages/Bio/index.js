@@ -23,7 +23,7 @@ function BioPage() {
 				<Col sm={1} md={2} lg={2}></Col>
 				<Col sm={10} md={8} lg={8}>
 					<Card>
-						<Card.Img variant="top" src={require("./images/Krystal.png")} />
+						<Card.Img variant="top" src={require("./images/Krystal.jpg")} />
 						<Card.Body>
 							<Card.Title>Bio</Card.Title>
 							<Card.Text>
@@ -51,13 +51,6 @@ function BioPage() {
 								attribute my professional success to my constant desire to continue 
 								learning and leveraging both my business and technical savy skillsets.
 							</Card.Text>
-							<Card.Text>
-								As technical skills become a non-negotiable for today’s
-								workforce, I decided it’s time for me to learn how to code! I am
-								currently enrolled in a UT Full Stack Development Bootcamp and
-								can’t wait to leverage my project management experience and web
-								development skill set.
-							</Card.Text>
 							<Card.Title>Find Me On</Card.Title>
 							<Card.Text>
 								For more information on my professional endeavors, please
@@ -66,7 +59,7 @@ function BioPage() {
 							</Card.Text>
 							<ListGroup>
 								<ListGroup.Item>
-									<a href="https://drive.google.com/file/d/19KIgS42PcWX6oEKzVI1cSNP5Px2pAE8P/view?usp=sharing">
+									<a href="https://drive.google.com/file/d/1sKHDu3NvncD70KxuMUXas9FZsgTReCkW/view?usp=sharing">
 										<FaBriefcase className="mr-1" /> Resume for Krystal E. Duran
 									</a>
 								</ListGroup.Item>
